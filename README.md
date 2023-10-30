@@ -10,7 +10,7 @@ The subsites module allows multiple websites to run from a single installation o
 
 ## Download
 
-subsites doesn't currently have a stable release.  If you would like to use it, you should download the "trunk" version.
+Subsites doesn't currently have a stable release.  If you would like to use it, you should download the "trunk" version.
 
 If you have subversion, you do this by executing ''svn checkout http://svn.silverstripe.com/open/modules/subsites/trunk subsites'' within your project folder.
 
